@@ -1,8 +1,7 @@
 ![lifeMEDeasy](https://socialify.git.ci/avinashkranjan/lifeMEDeasy/image?description=1&descriptionEditable=Part%20of%20%F0%9F%9A%80%20Quantum-Hack-Hackathon%20%20%20%F0%9F%A9%BA%20lifeMEDeasy%20-%20Automating%20Healthcare%20%E2%9A%95&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 ### [YouTube Link](https://www.youtube.com/watch?v=S09S2_bWNR0)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com){:target="_blank" rel="noopener"}
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
